@@ -1,0 +1,36 @@
+@import url(./reset.css);
+
+body {
+  background-color: antiquewhite;
+  min-width: 600px;
+  max-width: 1200px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  line-height: 1.5;
+}
+
+ol {
+  background-color: #ed9eae;
+  color: #ffffff;
+  padding: 20px;
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+ol li {
+  background-color: #c66377;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding: 0px 0px 0px 5px;
+  height: auto;
+}
+
+span {
+  display: inline-block;
+  background-color: #9d3649;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 20px;
+}
